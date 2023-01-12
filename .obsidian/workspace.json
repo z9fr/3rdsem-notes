@@ -149,14 +149,14 @@
   "active": "2f48bced3785aa0a",
   "lastOpenFiles": [
     "forensics/data-carving/data carving.md",
+    "forensics/Acquisition.md",
+    "forensics/Unix and Linux Forensics.pdf",
     "forensics/data-carving/cheat-sheet.md",
     "ethical-hacking/network-scaning/nmap.md",
     "ethical-hacking/important things.md",
     "ethical-hacking/network-scaning.md",
-    "forensics/Acquisition.md",
     "forensics/Introduction to Digital Forensics.md",
     "forensics/Malware Threats.md",
-    "forensics/Malware Analysis.md",
-    "soc/siem.md"
+    "forensics/Malware Analysis.md"
   ]
 }
