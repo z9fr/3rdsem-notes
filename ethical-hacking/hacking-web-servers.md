@@ -68,6 +68,44 @@ architecture of web server
 - xss
 - dos
 - csrf
-- session hijacking
+- session hijackin
 
+----
+
+### Web server attack methodology
+
+- Information gathering 
+- [web server] footprinting
+	- netcat
+	- telnet
+	- nmap (`nmap --script http-trace -p80 pornhub.com`)
+- Website mirroring
+- Vulnerability scanning
+	- Tennable 
+	- Acunetix
+	- Imuniweb
+
+
+---
+
+
+### Countermeasures and  monitoring
+
+- Patches/updates
+- Secure files and directorie
+- Machine.config and httpd.conf
+- Server certificates
+
+
+---
+
+## Security scanners
+
+- web application
+	- Netsparker
+	- N-stalker X
+	- Syhunt hybrid
+- Web server
+	- scan my server
+	- Nikto2
 
