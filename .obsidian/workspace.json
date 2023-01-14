@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "forensics/data-carving/cheat-sheet.md",
+                "file": "ethical-hacking/important things.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42f9b61969326f6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ethical-hacking/hacking-web-servers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "forensics/data-carving/cheat-sheet.md",
+                "file": "ethical-hacking/hacking-web-servers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "forensics/data-carving/cheat-sheet.md",
+                "file": "ethical-hacking/hacking-web-servers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "forensics/data-carving/cheat-sheet.md"
+                "file": "ethical-hacking/hacking-web-servers.md"
               }
             }
           }
@@ -146,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f48bced3785aa0a",
+  "active": "42f9b61969326f6d",
   "lastOpenFiles": [
+    "ethical-hacking/important things.md",
+    "ethical-hacking/Vulnerability analysis.md",
+    "ethical-hacking/network-scaning/nmap.md",
+    "ethical-hacking/Footprinting.md",
+    "ethical-hacking/Hacking web applications.md",
+    "forensics/data-carving/cheat-sheet.md",
     "forensics/data-carving/data carving.md",
     "forensics/Acquisition.md",
     "forensics/Unix and Linux Forensics.pdf",
-    "forensics/data-carving/cheat-sheet.md",
-    "ethical-hacking/network-scaning/nmap.md",
-    "ethical-hacking/important things.md",
-    "ethical-hacking/network-scaning.md",
-    "forensics/Introduction to Digital Forensics.md",
-    "forensics/Malware Threats.md",
-    "forensics/Malware Analysis.md"
+    "ethical-hacking/network-scaning.md"
   ]
 }
