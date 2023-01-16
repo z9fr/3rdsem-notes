@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ethical-hacking/network-scaning/nmap.md",
-                "mode": "preview",
+                "file": "forensics/Malware Analysis.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ethical-hacking/network-scaning/nmap.md",
+                "file": "forensics/Malware Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ethical-hacking/network-scaning/nmap.md",
+                "file": "forensics/Malware Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ethical-hacking/network-scaning/nmap.md"
+                "file": "forensics/Malware Analysis.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "3a6dcbc25f323f83",
   "lastOpenFiles": [
+    "forensics/Malware Threats.md",
+    "forensics/Malware Analysis.md",
+    "forensics/data-carving/data carving.md",
     "forensics/Introduction to Digital Forensics.md",
+    "forensics/Acquisition.md",
+    "ethical-hacking/network-scaning/nmap.md",
     "ethical-hacking/system hacking.md",
     "ethical-hacking/hacking-web-servers.md",
     "ethical-hacking/Hacking wireless networks and mobile platforms..md",
-    "ethical-hacking/Hacking web applications.md",
-    "ethical-hacking/Footprinting.md",
-    "ethical-hacking/important things.md",
-    "ethical-hacking/network scanning-4.md",
-    "ethical-hacking/Sniffing.md",
-    "ethical-hacking/Vulnerability analysis.md"
+    "ethical-hacking/Hacking web applications.md"
   ]
 }
