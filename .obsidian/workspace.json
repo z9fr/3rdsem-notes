@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ethical-hacking/system hacking.md",
-                "mode": "source",
+                "file": "ethical-hacking/network-scaning/nmap.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ethical-hacking/system hacking.md",
+                "file": "ethical-hacking/network-scaning/nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ethical-hacking/system hacking.md",
+                "file": "ethical-hacking/network-scaning/nmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ethical-hacking/system hacking.md"
+                "file": "ethical-hacking/network-scaning/nmap.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "3a6dcbc25f323f83",
   "lastOpenFiles": [
+    "forensics/Introduction to Digital Forensics.md",
+    "ethical-hacking/system hacking.md",
     "ethical-hacking/hacking-web-servers.md",
     "ethical-hacking/Hacking wireless networks and mobile platforms..md",
     "ethical-hacking/Hacking web applications.md",
@@ -155,8 +157,6 @@
     "ethical-hacking/important things.md",
     "ethical-hacking/network scanning-4.md",
     "ethical-hacking/Sniffing.md",
-    "ethical-hacking/Vulnerability analysis.md",
-    "ethical-hacking/network-scaning/nmap.md",
-    "forensics/data-carving/cheat-sheet.md"
+    "ethical-hacking/Vulnerability analysis.md"
   ]
 }
