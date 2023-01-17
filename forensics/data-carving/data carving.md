@@ -110,3 +110,27 @@ Structure of a master file table on an NTFS volume
 
 ![[attachments/Screenshot 2023-01-13 at 01.58.48.png]]
 
+
+refer to cheat sheet for type of data caving
+[[cheat-sheet]]
+
+---
+
+## Tools used 
+
+- FTK . EnCase
+- Foremost
+- Scalpel
+- Adriot Photo Recovery: very effective on photos
+- Reglookup: recovers removed registry entries
+- Libpff: recovers removed emails from PST files
+
+----
+
+## Problems with carving
+
+- time consuimg 
+- many unredable and invalid results
+- more data out than  in
+- no offset / sector / cluster reference to input data
+- quality of the tooling is unclear 

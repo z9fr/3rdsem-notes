@@ -41,3 +41,34 @@ this will not work on fragmented files
 
 > using the knowladge of file internal strucutre, as a example header footer and size
 
+Procedures  
+• Look for header  
+• Find first start of section  
+• Look for section size  
+• Next section, next, next ...  
+• Look for footer if no section
+
+### example
+
+- JPG has signature `OxFFD8`
+- FF DA is the section marker for the
+- ends with `FF D9` 
+
+(dont think very important it just says look for the head and tail of the file)
+
+----
+
+## Bi-fragment Gap Carving
+
+- Users object validation
+
+procedure 
+
+- identify header and footer blocks
+- assume one external block exists
+- construct files and use object validation
+- assume two external blocks exist and repeat
+
+----
+
+
