@@ -17,4 +17,8 @@
 ## Header-Maximum File Size Carving
 
 - Carving a fixed number of bytes from the beginning of a possible file
-- 
+- Procedures
+	- scan the header for a file type
+	- extract the fixed number of bytes from a point 
+- Useful for files with fixed length
+
