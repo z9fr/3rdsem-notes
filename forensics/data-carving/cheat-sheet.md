@@ -22,3 +22,22 @@
 	- extract the fixed number of bytes from a point 
 - Useful for files with fixed length
 
+---
+
+## Header-Embedded File Length Carving
+
+> based on the size of file embedded in the first few bytes of the file
+
+procedures
+- scan for the file header
+- once found , determine the file size
+- extract bytes
+
+this will not work on fragmented files
+
+---
+
+## File Structure based Carving
+
+> using the knowladge of file internal strucutre, as a example header footer and size
+
