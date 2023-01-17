@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "forensics/Malware Analysis.md",
+                "file": "forensics/Acquisition.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "forensics/Malware Analysis.md",
+                "file": "forensics/Acquisition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "forensics/Malware Analysis.md",
+                "file": "forensics/Acquisition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "forensics/Malware Analysis.md"
+                "file": "forensics/Acquisition.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "3a6dcbc25f323f83",
   "lastOpenFiles": [
-    "forensics/Malware Threats.md",
-    "forensics/Malware Analysis.md",
-    "forensics/data-carving/data carving.md",
     "forensics/Introduction to Digital Forensics.md",
+    "forensics/Malware Analysis.md",
+    "forensics/Malware Threats.md",
+    "forensics/data-carving/data carving.md",
     "forensics/Acquisition.md",
     "ethical-hacking/network-scaning/nmap.md",
     "ethical-hacking/system hacking.md",
