@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "forensics/Acquisition.md",
-                "mode": "source",
+                "file": "forensics/data-carving/data carving.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "forensics/Acquisition.md",
+                "file": "forensics/data-carving/data carving.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "forensics/Acquisition.md",
+                "file": "forensics/data-carving/data carving.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "forensics/Acquisition.md"
+                "file": "forensics/data-carving/data carving.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "3a6dcbc25f323f83",
   "lastOpenFiles": [
+    "forensics/data-carving/cheat-sheet.md",
     "forensics/Introduction to Digital Forensics.md",
+    "forensics/Acquisition.md",
     "forensics/Malware Analysis.md",
+    "forensics/Unix and linux forensics.md",
     "forensics/Malware Threats.md",
     "forensics/data-carving/data carving.md",
-    "forensics/Acquisition.md",
     "ethical-hacking/network-scaning/nmap.md",
     "ethical-hacking/system hacking.md",
-    "ethical-hacking/hacking-web-servers.md",
-    "ethical-hacking/Hacking wireless networks and mobile platforms..md",
-    "ethical-hacking/Hacking web applications.md"
+    "ethical-hacking/hacking-web-servers.md"
   ]
 }
