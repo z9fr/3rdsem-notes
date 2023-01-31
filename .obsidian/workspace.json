@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9405eaf9ae104e7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ethical-hacking/assignment/soc analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ethical-hacking/assignment/soc.md",
+                "file": "ethical-hacking/assignment/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ethical-hacking/assignment/soc.md",
+                "file": "ethical-hacking/assignment/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ethical-hacking/assignment/soc.md"
+                "file": "ethical-hacking/assignment/notes.md"
               }
             }
           }
@@ -171,8 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "687a4de195ced210",
+  "active": "f8dd7dc4287b987e",
   "lastOpenFiles": [
+    "ethical-hacking/assignment/soc.md",
+    "ethical-hacking/assignment/soc analysis.md",
     "ethical-hacking/assignment/notes.md",
     "ethical-hacking/assignment/203.md",
     "forensics/Malware Analysis.md",
@@ -180,8 +194,6 @@
     "forensics/Password hacking.md",
     "forensics/Introduction to Digital Forensics.md",
     "forensics/Acquisition.md",
-    "forensics/Unix and linux forensics.md",
-    "forensics/Virus, Trojan, Adware.md",
-    "forensics/data-carving/data carving.md"
+    "forensics/Unix and linux forensics.md"
   ]
 }
